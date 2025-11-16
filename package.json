@@ -1,0 +1,24 @@
+{
+  "name": "SpotifyProject",
+  "version": "1.0.0",
+  "description": "Spotify project that creates playlists filled with recommended songs based on the spotify algorithm. The playlist should be filled with songs that are not already saved into any other existing playlist created by the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaySsuh/SpotifyProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaySsuh/SpotifyProject/issues"
+  },
+  "homepage": "https://github.com/JaySsuh/SpotifyProject#readme",
+  "dependencies": {
+    "spotify-web-api-js": "^1.5.2",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
